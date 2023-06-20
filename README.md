@@ -1,9 +1,6 @@
 # HTML and CSS Refactoring
-
 ## Description
-
 We're trying to make a better website by using semantic features, cleaner syntax and note repeating code.
-
 ## Features
 Generic HTML elements were changed to semantic elements, for example:
 
@@ -12,7 +9,6 @@ div with generic class header: <br>
 
 to tag header: <br>
 ![Alt text](./assets/images/readme-example2.png)
-
 ### Consolidated CSS
 
 Changing this:
@@ -38,8 +34,9 @@ In to this:
 ### Added accessibility attributes and concise elements.
 
 Example adding the alt attribute in the images:
+<br>
 <img src="./assets/images/readme-example3.png" alt="html changed" width="60%">
-
+<br>
 <img src="./assets/images/readme-example4.png" alt="html changed" width="60%">
 
 ## Installation
@@ -54,6 +51,8 @@ To get the files you need to follow the instructions:
     ```
 3. Open the files in your favorite editor.
 
+## Deployed Application
+<https://didierthomasm.github.io/HTML-and-CSS-Refactoring/>
 
 This is how the page looks like
 ![Alt text](./assets/images/01-html-css-git-homework-demo.png)
